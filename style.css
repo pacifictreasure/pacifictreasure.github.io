@@ -127,7 +127,7 @@ i {
 .navbar-toggle {
     cursor: pointer; 
     position: absolute;
-    top: 10px;
+    top: 15px;
     right: 20px;
     color: #fff;
     font-size: 24px;
@@ -275,6 +275,10 @@ i {
 /* Images */
 
 .sidebar img {
+    width: 300px;
+}
+
+.logo {
     width: 300px;
 }
 
