@@ -171,8 +171,8 @@ i {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .notification {
@@ -288,6 +288,11 @@ i {
 
     p.intro {
         font-size: 28px;
+    }
+
+    .hero {
+        padding-top: 75px;
+        padding-bottom: 75px;
     }
 
     .flex-container {
