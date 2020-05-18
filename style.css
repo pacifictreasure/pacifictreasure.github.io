@@ -118,7 +118,7 @@ i {
 .logo {
     display: inline-block;
     margin-top: 20px;
-    margin-left: 25px;
+    margin-left: 20px;
     width: 300px;
 }
 
@@ -152,7 +152,7 @@ i {
 }
 
 .header {
-    border-top: 10px solid #004987;
+    border-top: 12px solid #004987;
 }
 
 
@@ -170,7 +170,6 @@ i {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -283,7 +282,7 @@ i {
     } */
 
     h1 {
-        font-size: 44px;
+        font-size: 54px;
     }
 
     p.intro {
@@ -291,8 +290,9 @@ i {
     }
 
     .hero {
-        padding-top: 75px;
-        padding-bottom: 75px;
+        text-align: center;
+        padding-top: 155px;
+        padding-bottom: 155px;
     }
 
     .flex-container {
