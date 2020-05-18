@@ -27,7 +27,7 @@ h1, h2, h3, h6, p, a, pre, code, i {
 h1 {
     font-family: karmina, serif;
     font-weight: 700;
-    font-size: 44px;
+    font-size: 38px;
     line-height: 1.1;
     margin-bottom: 15px;
 }
@@ -35,7 +35,7 @@ h1 {
 p.intro {
     font-family: karmina, serif;
     font-weight: 400;
-    font-size: 28px;
+    font-size: 22px;
     line-height: 1.25;
     margin-bottom: 15px;
 }
@@ -188,20 +188,6 @@ i {
     padding: 0px 10px;
 }
 
-.status {
-    color: #2bd67b;
-    text-transform: uppercase;
-    font-size: 10px;
-    font-weight: 600;
-}
-
-.message {
-    font-size: 13px;
-    font-weight: 500;
-    padding-left: 10px;
-    color: rgba(255,255,255,.64);
-}
-
 .hero-text {
     padding-bottom: 50px;
     max-width: 800px;
@@ -295,6 +281,14 @@ i {
         padding-top: 70px;
         padding-bottom: 70px;
     } */
+
+    h1 {
+        font-size: 44px;
+    }
+
+    p.intro {
+        font-size: 28px;
+    }
 
     .flex-container {
         display: flex;
