@@ -168,8 +168,8 @@ i {
 .hero {
     display: flex;
     flex-direction: column;
-    align-items: center; /* Horizontal align */
-    justify-content: center; /* Vertical align */
+    align-items: center;
+    justify-content: center;
     text-align: center;
     padding-top: 75px;
     padding-bottom: 75px;
